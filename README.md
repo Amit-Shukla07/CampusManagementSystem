@@ -81,6 +81,11 @@ npm run build
 npm start
 ```
 
+## 🌐 Live Deployment
+
+The application is deployed and available at:
+**https://campus-management-system-jq2jgpf7v.vercel.app/**
+
 ## 📂 Project Structure
 
 ```
